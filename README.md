@@ -1,5 +1,4 @@
 ### EX NO : 08
-### DATE  : 01.06.2022
 # <p align="center">Inheritance</p>
 
 ## Aim:
